@@ -1,0 +1,35 @@
+.insideAn {
+  color:aliceblue;
+  font-size: 15px;
+  padding-left: 22px;
+  padding-right: 22px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-top: 6px;
+  margin-bottom: 6px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left:6px;
+  background-color: rgba(0, 0, 0, 0.652);
+  border: 3px solid rgba(255, 255, 255, 0);
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+.insidediv{
+          color:white;
+          font-family: 'trap';
+          display:inline-flex;
+          justify-content:center;
+          align-items:center;
+          /* background-color:rgb(46, 46, 46); */
+           background-color: rgba(0, 0, 0, 0.289);
+            backdrop-filter: blur(10px);
+          border-radius:13.5px;
+          position:fixed;
+          bottom:3%;
+          left:37%;
+          
+          
+}
