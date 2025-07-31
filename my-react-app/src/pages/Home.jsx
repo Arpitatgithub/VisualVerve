@@ -10,11 +10,11 @@ function Home() {
      
       <div style={{display: 'flex', justifyContent:'center'}}>
       <PixelCard variant="pink">
-        // your card content (use position: absolute)
+       
       </PixelCard>
 
       <PixelCard variant="pink">
-        // your card content (use position: absolute)
+       
       </PixelCard></div>
       <TextType 
   text={["WELCOME to visualverve.studios", "fetch some great UI?UX designs!"]}
@@ -35,10 +35,7 @@ function Home() {
     patternAlpha={30}
   /><h1 style={{color:'gray',fontSize:'100px', fontFamily:'trap'}}>EXPERIENCE the UI</h1>
 </div>
-      <div>
-        <h3>Web UI Designs</h3> 
-      </div>
-      
+        
 
       
 

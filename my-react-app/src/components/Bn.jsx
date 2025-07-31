@@ -8,7 +8,7 @@ function Bn(){
           return(
                     
                     <div class="insidediv">
-                                        <a  onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })} class="insideAn">Go up</a>
+                                        <button  onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })} class="insideAn">Go up</button>
                                         <Link to="/" className="insideAn">Home</Link>
                                         <Link to="/about" className="insideAn">About</Link>
                                         <Link to="/services" className="insideAn">Services</Link>
